@@ -54,7 +54,7 @@
             "text_KxeJ6r": {
               "type": "text",
               "settings": {
-                "text": "<p>Savor every. last. bite. </p>",
+                "text": "<p>Colección de verano</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
@@ -79,7 +79,7 @@
             "button_nazDaa": {
               "type": "button",
               "settings": {
-                "label": "Shop all →",
+                "label": "Ver todo →",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "link",
