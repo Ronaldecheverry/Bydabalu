@@ -99,7 +99,7 @@
                   "name": "t:names.menu",
                   "settings": {
                     "menu": "footer",
-                    "heading": "Shop",
+                    "heading": "tienda",
                     "menu_spacing": 4,
                     "show_as_accordion": false,
                     "accordion_icon": "caret",
