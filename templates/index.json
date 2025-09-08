@@ -80,7 +80,7 @@
               "type": "button",
               "settings": {
                 "label": "Ver todo →",
-                "link": "shopify://collections/all",
+                "link": "shopify://collections",
                 "open_in_new_tab": false,
                 "style_class": "link",
                 "width": "fit-content",
